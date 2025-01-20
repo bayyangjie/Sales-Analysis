@@ -1,4 +1,4 @@
-# Sales Project Objectives 
+# Sales Analysis 
 The goal of this project is to assist stakeholders, such as sales managers and executives, in evaluating sales performance as well as customer shopping trends and behaviors. This is accomplished by developing two dashboards, specifically the 'Sales Dashboard' and 'Customer Dashboard'.
 
 Please click [here](https://public.tableau.com/views/Sales_Dashboard_17338076965380/SalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to access the interactive dashboard available on my Tableau public profile.
