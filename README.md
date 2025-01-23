@@ -94,6 +94,6 @@ Identifying the most valuable customers allows the business to implement rewards
 <img src="images/top 10 customers by profit.png" width="100%"/>
 
 # Navigation buttons
-The navigation functionalities are designed to enhance the overall interactivity of the dashboards. It allows stakeholders/users to navigate smoothly from dashboard to dashboard as well as to filtering of the data according to the information needed. For example the filtering can be done by Years, Product category/subcategory and Location details such as Region, State and City.
+The navigation functionalities are designed to enhance the overall interactivity of the dashboards. It allows stakeholders/users to navigate smoothly from dashboard to dashboard as well as filtering of the data according to the information needed. For example the filtering can be done by Years, Product category/subcategory and Location details such as Region, State and City.
 
 <img src="images/buttons.png" width="100%"/>
