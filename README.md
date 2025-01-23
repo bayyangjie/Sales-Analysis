@@ -42,7 +42,7 @@ This segment comprises of two bar plots plotted side by side. One represents the
 
 By analyzing the performance of various product categories, the business can concentrate on strategies aimed at enhancing the sales of those categories that are underperforming, thereby boosting overall sales figures.
 
-<img src="images/sales_profit_product_subcategory.png" width="70%"/>
+<img src="images/sales_profit_product_subcategory.png" width="100%"/>
 
 ### Weekly Sales and Profit Trends
 This line plot shows the weekly sales and profits in the selected year as two separate line plots. In addition, the plot also defines a threshold where users can tell whether a sales and profits in a particular week is above or below average. Weeks that have above average sales/profits are coloured in blue and orange for below average sales/profits.
