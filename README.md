@@ -6,15 +6,13 @@ Please click [here](https://public.tableau.com/views/Sales_Dashboard_17338076965
 # About the dataset
 The dataset comprises of four different csv files namely Orders, Customers, Location and Products. The Orders table serves as the Primary table whic contains the primary key that references the other foreign/secondary tables (Customers, Location, Products). The Customers, Location and Products tables contain child records that add data to the parent/primary records in the Orders table.
 
-![Tables relationships](images/tables%20connections.png) <br>
-
-![orders_products](images/orders_products.png) <br>
-
-![orders_location](images/orders_location.png) <br>
-
-![orders_customers](images/orders_customers.png) <br>
-
 <img src="https://github.com/bayyangjie/Sales-Dashboard/blob/main/Images/dataset%20structure.png?raw=true" width="100%"/>
+
+<img src="images/orders_products.png" width="70%"/> <br>
+
+<img src="images/orders_location.png" width="70%"/> <br>
+
+<img src="images/orders_customers.png" width="70%"/> <br>
 
 <br>
 
