@@ -74,7 +74,7 @@ This segment provides a summary of KPI metrics such as total number of customers
 - The total sales per customer increased the most from 2021 to 2022 with an increase of 16.3%.
 - The total number of orders increased the most from 2022 to 2023 with an increase of 28.3%. 2021 to 2022 also had almost a similarly large increase of 26.7%.
 
-<img src="images/kpi overview_customer dashboard.png>
+<img src="images/kpi overview_customer dashboard.png" width="100%"/>
 
 #### Customer Distribution by Number of Orders
 In order to obtain insights into customer behavior, loyalty and engagement, the customer distribution is analyzed based on the number of orders that they have placed. 
