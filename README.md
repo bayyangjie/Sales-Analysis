@@ -96,4 +96,4 @@ Identifying the most valuable customers allows the business to implement rewards
 # Navigation buttons
 Navigation buttons were also added to allow stakeholders/users to navigate smoothly from dashboard to dashboard. Filters were also put up to filter the data by Years, Product category/subcategory and Location details such as Region, State and City.
 
-<img src="images/navigation buttons.png" width="70%"/>
+<img src="images/buttons.png" width="50%"/>
